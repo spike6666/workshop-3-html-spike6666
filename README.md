@@ -1,10 +1,16 @@
-# bt2201-html
+# BT2201 Task HTML
 
-Just like in last week's workshop you will add some content to this very basic html document. The html document is called 'myfirst.html' and can be found in this repository. 
+## Introduction
 
-You can edit the document directly in the GitHub web interface if you like. You can't really test whether your files work correctly though as you can only see the code. 
+Just like in last week's workshop you will add some content to a very basic html document. The html document is called 'myfirst.html' and can be found in this repository. 
 
-To get the repository to your own machine you can use the git command in the command line or you can use a GUI client, e.g. GitHub Desktop.
+You can edit the document directly in the GitHub web interface if you like. If you do that you can't really test whether your file works correctly though as you can only see the code, but can't run it in the web interface. 
+
+To get the repository to your own machine you can link your GitHub account to PHPStorm or use GitHub Desktop (there are many more ways but these two are the most convenient).
+
+## Task
+
+Here's what to do with 'myfirst.html', it's exactly the same as what you did last week:
 
 1. Add a heading with the following text to the html document 
 
