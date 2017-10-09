@@ -4,13 +4,15 @@
 
 Just like in last week's workshop you will add some content to a very basic html document. The html document is called 'myfirst.html' and can be found in this repository. 
 
-You can edit the document directly in the GitHub web interface if you like. If you do that you can't really test whether your file works correctly though as you can only see the code, but can't run it in the web interface. 
+You can edit the document directly GitHub's web interface if you like. This is a very convenient way of editing the file. If you want to test your files (especially in the future when we've started using PHP) you have to test them on a web server. 
 
-To get the repository to your own machine you can link your GitHub account to PHPStorm or use GitHub Desktop (there are many more ways but these two are the most convenient).
+The preferred way of working is to edit the files on your own machine and to then send them to the server from your machine.  
+
+To get the repository to your own machine you can use GitHub Desktop or link your GitHub account to PHPStorm (there are many more ways but these two are very convenient).
 
 ## Task
 
-Here's what to do with 'myfirst.html', it's exactly the same as what you did last week:
+Below is today's task. You have to work with 'myfirst.html', which can be found in the same repository as the text you are currently reading. The task is exactly the same as last week's, but this time we use GitHub.
 
 1. Add a heading with the following text to the html document 
 
@@ -23,4 +25,6 @@ Here's what to do with 'myfirst.html', it's exactly the same as what you did las
    `My first paragraph for BT2201`
 
    Make sure you mark it up as a paragraph / use the paragraph tag.
+   
+
 
