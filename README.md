@@ -27,4 +27,6 @@ Below is today's task. You have to work with 'myfirst.html', which can be found 
    Make sure you mark it up as a paragraph / use the paragraph tag.
    
 
+Once you are done be sure to commit your changes (that will save them to the repository) and to push them to GitHub (so that I can see the work you have done).
 
+Commit early, commit often - that way you can go back if you have made a mistake and I can see all the work you have done. There's no problem if you commit and there's a mistake in your file.  
